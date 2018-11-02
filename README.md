@@ -17,7 +17,7 @@ If you use this code or dataset as part of any published research, please refer 
 ```
 @inproceedings{Kim:2018:arXiv,
     author = {Kim, Byeongchang and Kim, Hyunwoo and Kim, Gunhee},
-    title = "{Abstractive Summarization of Reddit with Multi-level Memory Networks}",
+    title = "{Abstractive Summarization of Reddit Posts with Multi-level Memory Networks}",
     booktitle = {arXiv},
     year = 2018
 }
@@ -45,7 +45,7 @@ This file includes raw text and tokenized text.
 
 [[Download json]](https://drive.google.com/open?id=1ffWfITKFMJeqjT8loC8aiCLRNJpc_XnF)
 
-You can read and exploring our dataset as follows
+You can read and explore our dataset as follows
 
 ```python
 import json
