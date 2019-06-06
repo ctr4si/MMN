@@ -4,7 +4,7 @@
 
 This project hosts the code and dataset for our paper.
 
-- [Byeongchang Kim](https://bckim92.github.io/), [Hyunwoo Kim](https://skywalker023.github.io/) and [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/). Abstractive Summarization of Reddit Posts with Multi-level Memory Networks. In *NAACL-HLT* (oral), 2019. [[arxiv]](https://arxiv.org/abs/1811.00783)
+- [Byeongchang Kim](https://bckim92.github.io/), [Hyunwoo Kim](https://skywalker023.github.io/) and [Gunhee Kim](http://vision.snu.ac.kr/~gunhee/). Abstractive Summarization of Reddit Posts with Multi-level Memory Networks. In *NAACL-HLT* (oral), 2019. [[arxiv]](https://arxiv.org/abs/1811.00783) [[slide]](https://drive.google.com/open?id=17nGtwNewII9Uqxmq4Rp_xmQtCJPAZRnz)
 
 We address the problem of abstractive summarization in two directions: proposing a novel dataset and a new model.
 First, we collected Reddit TIFU dataset, consisting of 120K posts from the online discussion forum Reddit.
