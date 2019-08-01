@@ -25,7 +25,7 @@ If you use this code or dataset as part of any published research, please refer 
 
 ## Running Code
 
-TBU (between May and June of 2019)
+TBU
 
 ## *Reddit TIFU* Dataset
 
